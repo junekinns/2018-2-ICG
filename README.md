@@ -1,2 +1,1 @@
-# HLSL_Practice
-Shader repo :)
+# Let's study OpenGL yeaaaaa
