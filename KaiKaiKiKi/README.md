@@ -11,7 +11,7 @@ __Program Introduction__
 
 __Control__
 
-* Keyboard 'ESC' down to Exit the program
+* Keyboard 'Esc' down to Exit the program
 
-* Keyboard 'Backspace' down to clear screen
+* Keyboard 'Backspace' down to clear the screen
 
