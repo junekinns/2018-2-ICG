@@ -3,11 +3,11 @@
 
 __Artist / Painting__
 
-* Takashi Murakami - Flower(KaiKai KiKi):
+* Takashi Murakami - KaiKai KiKi Flower
 
 __Program Introduction__
 
-* It creates a fullscreen window and draw flowers randomly
+* It creates a fullscreen window and draw flowers on random position & size
 
 __Control__
 
