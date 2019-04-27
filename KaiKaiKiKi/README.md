@@ -1,12 +1,17 @@
-# Interactive Art - KaiKaiKiKi Flower by Takashi Murakami
+# Interactive Art - KaiKaiKiKi
 ![Preview](kaikaikiki.gif)
 
-==Artist / Painting==
-Takashi Murakami - Flower(KaiKai KiKi)
+:__Artist / Painting__
 
-==Program Introduction== 
-It creates a fullscreen window and draw flowers randomly
+*Takashi Murakami - Flower(KaiKai KiKi)
 
-==Control==
--Keyboard 'ESC' down to Exit the program
--Keyboard 'Backspace' down to clear screen
+__Program Introduction__
+
+*It creates a fullscreen window and draw flowers randomly
+
+__Control__
+
+*Keyboard 'ESC' down to Exit the program
+
+*Keyboard 'Backspace' down to clear screen
+:
