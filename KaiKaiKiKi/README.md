@@ -1,4 +1,2 @@
-# Let's study OpenGL yeaaaaa
-Extensions : freeglut, glew
-
-Setting reference : ....
+# Interactive Art - KaiKaiKiKi Flower by Takashi Murakami
+![Screenshot](kaikaikiki.gif)
